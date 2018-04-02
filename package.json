@@ -1,0 +1,26 @@
+{
+  "name": "exam_generator",
+  "version": "1.0.0",
+  "description": "Exam Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvtolentino/exam_generator.git"
+  },
+  "keywords": [
+    "exam",
+    "generator"
+  ],
+  "author": "Jeffrey V. Tolentino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jvtolentino/exam_generator/issues"
+  },
+  "homepage": "https://github.com/jvtolentino/exam_generator#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
